@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604172787323",
+    "project_id": "assignment04-e90a9",
+    "storage_bucket": "assignment04-e90a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604172787323:android:338da1d22b4bc83fd7ccde",
+        "android_client_info": {
+          "package_name": "au.edu.utas.dengm.tutorialsmarkingapplication.tutorials_marking_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604172787323-7qummge65dg1ieg8gf0bich0j9srk9up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwzjdb_FBOueHWSjgPv7relLUtmoybdhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604172787323-7qummge65dg1ieg8gf0bich0j9srk9up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
