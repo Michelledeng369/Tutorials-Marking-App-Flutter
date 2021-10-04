@@ -1,16 +1,13 @@
-# tutorials_marking_application
+This is a Tutorial Marks Application developed by Flutter in Android Studio with Dart language. 
 
-A new Flutter project.
+The application has three sections: 
+1. Classlist - mainly used for student management (student addition, editing, deletion, and view and share students’ details); 
+2. Attendance - this section is to mark the student’s performance on the tutorial with 5 marking schemes: a. checkbox attendance; b. multiple checkpoints (2 checkpoints); c. enter score out of 100; d. Grade level (HD+/HD/DN/CR/PP/NN), and f. Grade Level (A/B/C/D/F), only one scheme can be used each week;
+3. Report - shows the grades of all students according to the week with the average score. The development of the application follows usability goals and design principles, which can basically meet tutor's marking requirements on the tutorial.
+4. Use Firebase as the database.
 
-## Getting Started
+Note: the application is tested on Android with simulator Pixel 4 API 30 (1080 * 2280: 440dpi).
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Issue:
+Camera can be used to take photos but the pictures cannot be upload to Firebase.
+Cannot achieve search/filter function.
