@@ -11,3 +11,9 @@ Note: the application is tested on Android with simulator Pixel 4 API 30 (1080 *
 Issue:
 Camera can be used to take photos but the pictures cannot be upload to Firebase.
 Cannot achieve search/filter function.
+
+
+
+
+https://user-images.githubusercontent.com/88606527/160047931-776259b2-9993-49a2-b377-fd7ccda590d7.mp4
+
